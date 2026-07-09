@@ -1,0 +1,40 @@
+item,quantity,unit_cost,total_cost,date,sub_category,category,exchange_rate
+Cutting Trees,1,10000,10000,2020-04-30,Fencing,Preconstruction,49.0
+Big Trip of Sand,1,7500,7500,2020-04-30,Fencing,Preconstruction,49.0
+Small Trip of Sand,1,4000,4000,2020-04-30,Fencing,Preconstruction,49.0
+Cement ,40,285,11400,2020-05-06,Fencing,Preconstruction,49.0
+Cement Transport ,1,600,600,2020-05-06,Fencing,Preconstruction,49.0
+Wheelbarrow Rental,1,200,200,2020-05-06,Fencing,Preconstruction,49.0
+Molding Bricks,1370,5,6850,2020-05-06,Fencing,Preconstruction,49.0
+Water for Molding ,1,1000,1000,2020-05-06,Fencing,Preconstruction,49.0
+Gas for Transport ,1,450,450,2020-05-06,Fencing,Preconstruction,49.0
+Police Ticket ,1,200,200,2020-04-29,Fencing,Preconstruction,49.0
+Trip of Pebbles ,1,3500,3500,2020-05-08,Fencing,Preconstruction,49.0
+Cement ,25,285,7125,2020-05-08,Fencing,Preconstruction,49.0
+Cement Transport ,25,15,375,2020-05-08,Fencing,Preconstruction,49.0
+Papa Jara Transport,1,600,600,2020-05-08,Fencing,Preconstruction,49.0
+Gas for Transport ,1,200,200,2020-05-08,Fencing,Preconstruction,49.0
+Iron Rods,1,4550,4550,2020-05-10,Fencing,Preconstruction,49.0
+Iron Rods Transport ,1,200,200,2020-05-10,Fencing,Preconstruction,49.0
+Gas for Transport ,1,125,125,2020-05-10,Fencing,Preconstruction,49.0
+Gas for Transport ,1,400,400,2020-05-16,Fencing,Preconstruction,49.0
+Electric Pipes ,4,35,140,2020-05-16,Fencing,Preconstruction,49.0
+Wire for Pillar Board,1,100,100,2020-05-16,Fencing,Preconstruction,49.0
+Kilo of Nales,2,60,120,2020-05-16,Fencing,Preconstruction,49.0
+Taxi Fare ,1,250,250,2020-05-16,Fencing,Preconstruction,49.0
+Pillar Boardrent 2Ds,14,50,700,2020-05-16,Fencing,Preconstruction,49.0
+Pillar Iron Rods,4,600,2400,2020-05-16,Fencing,Preconstruction,49.0
+Cement ,4,285,1150,2020-05-22,Fencing,Preconstruction,49.0
+Gas for Transport ,1,200,200,2020-05-22,Fencing,Preconstruction,49.0
+Pillar Mold Rental ,4,500,2000,2020-05-22,Fencing,Preconstruction,49.0
+Pillar Board Rental ,6,25,150,2020-02-22,Fencing,Preconstruction,49.0
+Pillar & Board Trasp,1,1000,1000,2020-05-22,Fencing,Preconstruction,49.0
+Pillar Pebbel,1,3000,3000,2020-05-22,Fencing,Preconstruction,49.0
+Pillar Pebbel Trasport,1,400,400,2020-05-22,Fencing,Preconstruction,49.0
+Lock for Gate,1,250,250,2020-05-22,Fencing,Preconstruction,49.0
+Gate,1,26000,26000,2020-05-22,Fencing,Preconstruction,49.0
+Cement ,5,285,1425,2020-05-22,Fencing,Preconstruction,49.0
+Cement Transport ,5,15,75,2020-05-22,Fencing,Preconstruction,49.0
+Fence Building Fee,1,12000,12000,2020-05-24,Fencing,Preconstruction,49.0
+Water for Fencing ,1,1000,1000,2020-05-24,Fencing,Preconstruction,49.0
+Finishing ,1,1000,1000,2020-06-23,Fencing,Preconstruction,49.0

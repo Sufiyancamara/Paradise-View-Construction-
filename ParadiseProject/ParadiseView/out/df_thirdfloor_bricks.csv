@@ -1,0 +1,16 @@
+item,quantity,unit_cost,total_cost,date,sub_category,category,exchange_rate
+Cement ,100.0,480.0,48000.0,2025-10-14,Brick Molding,3rd Floor,73.75
+Cement Transport,100.0,20.0,2000.0,2025-10-14,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-14,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-15,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-17,Brick Molding,3rd Floor,73.75
+Brick Molding Cost,2910.0,6.0,17460.0,2025-10-20,Brick Molding,3rd Floor,73.75
+Cement ,100.0,480.0,48000.0,2025-10-20,Brick Molding,3rd Floor,73.75
+Cement Transport,100.0,20.0,2000.0,2025-10-20,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-21,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-23,Brick Molding,3rd Floor,73.75
+Brick Molding Cost,2766.0,6.0,16600.0,2025-10-27,Brick Molding,3rd Floor,73.75
+Cement ,50.0,480.0,24000.0,2025-10-27,Brick Molding,3rd Floor,73.75
+Cement Transport,50.0,20.0,1000.0,2025-10-27,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-27,Brick Molding,3rd Floor,73.75
+Brick Molding Cost,1400.0,6.0,8400.0,2025-10-29,Brick Molding,3rd Floor,73.75
