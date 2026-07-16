@@ -1,0 +1,164 @@
+item,quantity,unit_cost,total_cost,date,sub_category,category,exchange_rate
+Cement ,100.0,480.0,48000.0,2025-10-14,Brick Molding,3rd Floor,73.75
+Cement Transport,100.0,20.0,2000.0,2025-10-14,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-14,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-15,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-17,Brick Molding,3rd Floor,73.75
+Brick Molding Cost,2910.0,6.0,17460.0,2025-10-20,Brick Molding,3rd Floor,73.75
+Cement ,100.0,480.0,48000.0,2025-10-20,Brick Molding,3rd Floor,73.75
+Cement Transport,100.0,20.0,2000.0,2025-10-20,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-21,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-23,Brick Molding,3rd Floor,73.75
+Brick Molding Cost,2766.0,6.0,16600.0,2025-10-27,Brick Molding,3rd Floor,73.75
+Cement ,50.0,480.0,24000.0,2025-10-27,Brick Molding,3rd Floor,73.75
+Cement Transport,50.0,20.0,1000.0,2025-10-27,Brick Molding,3rd Floor,73.75
+Sand (10 Wheel),1.0,8500.0,8500.0,2025-10-27,Brick Molding,3rd Floor,73.75
+Brick Molding Cost,1400.0,6.0,8400.0,2025-10-29,Brick Molding,3rd Floor,73.75
+Cement,36.0,480.0,17280.0,2026-12-29,Construction,3rd Floor,74.0
+Cement Transport ,36.0,20.0,720.0,2026-12-29,Construction,3rd Floor,74.0
+Sand (10 Wheel),1.0,8000.0,8000.0,2026-12-29,Construction,3rd Floor,74.0
+Contractor Njaye Payment,1.0,100000.0,100000.0,2026-01-20,Construction,3rd Floor,73.5
+Iron Rod (12mm),103.0,540.0,55620.0,2026-01-22,Construction,3rd Floor,73.5
+Binding Wire,1.0,500.0,500.0,2026-01-22,Construction,3rd Floor,73.5
+Iron Rod + Binding Wite Transport ,1.0,700.0,700.0,2026-01-22,Construction,3rd Floor,73.5
+Big Plastic Barrel ,2.0,1000.0,2000.0,2026-01-23,Construction,3rd Floor,73.5
+Barrels Transport ,1.0,500.0,500.0,2026-01-23,Construction,3rd Floor,73.5
+Gas for Generator ,1.0,475.0,475.0,2026-01-23,Construction,3rd Floor,73.5
+Bubacarr Faye Payment,1.0,60000.0,60000.0,2026-01-24,Construction,3rd Floor,73.5
+Cement,100.0,465.0,46500.0,2026-01-27,Construction,3rd Floor,73.75
+Cement Transport ,100.0,20.0,2000.0,2026-01-27,Construction,3rd Floor,73.75
+Sand (10 Wheel),1.0,8000.0,8000.0,2026-01-27,Construction,3rd Floor,73.75
+Contractor Njaye Payment,1.0,100000.0,100000.0,2026-01-28,Construction,3rd Floor,73.75
+Fixing Momo Haja’s Gate,1.0,700.0,700.0,2026-01-29,Construction,3rd Floor,73.75
+Gas for Generator ,1.0,500.0,500.0,2026-01-30,Construction,3rd Floor,73.75
+Asphalt (95cu),1.0,95000.0,95000.0,2026-01-31,Construction,3rd Floor,73.75
+Nail (kg),10.0,100.0,1000.0,2026-01-31,Construction,3rd Floor,73.75
+Ali’ Payment ,1.0,5500.0,5500.0,2026-02-04,Construction,3rd Floor,73.75
+Generator Repair and Gas,1.0,1250.0,1250.0,2026-02-07,Construction,3rd Floor,73.75
+Iron Rod (10mm),250.0,330.0,82500.0,2026-02-08,Construction,3rd Floor,73.75
+Iron Rod (6mm),200.0,130.0,26000.0,2026-02-08,Construction,3rd Floor,73.75
+Binding Wire,3.0,500.0,1500.0,2026-02-08,Construction,3rd Floor,73.75
+Materials Transport,1.0,1800.0,1800.0,2026-02-08,Construction,3rd Floor,73.75
+Contractor Njaye Payment,1.0,100000.0,100000.0,2026-02-09,Construction,3rd Floor,73.75
+Ali Packing the Woods,1.0,2000.0,2000.0,2026-02-09,Construction,3rd Floor,73.75
+Nail (kg),7.0,101.0,707.0,2026-02-12,Construction,3rd Floor,73.75
+Sand (10 Wheel),1.0,8000.0,8000.0,2026-02-13,Construction,3rd Floor,73.75
+Generator Repair and Gas,1.0,1900.0,1900.0,2026-02-14,Construction,3rd Floor,73.75
+Cement,50.0,450.0,22500.0,2026-02-18,Construction,3rd Floor,73.75
+Cement Transport ,50.0,20.0,1000.0,2026-02-18,Construction,3rd Floor,73.75
+2/5 Wood,4.0,325.0,1300.0,2026-02-18,Construction,3rd Floor,73.75
+1/5 Wood Transport ,4.0,100.0,400.0,2026-02-18,Construction,3rd Floor,73.75
+Gas for Generator ,1.0,450.0,450.0,2026-02-21,Construction,3rd Floor,73.75
+Ramadan Experiences ,1.0,6000.0,6000.0,2026-03-26,Construction,3rd Floor,73.75
+Nail (kg),9.0,100.0,900.0,2026-03-02,Construction,3rd Floor,73.75
+1/2 Wood,15.0,120.0,1800.0,2026-03-02,Construction,3rd Floor,73.75
+Materials Transport,1.0,300.0,300.0,2026-03-02,Construction,3rd Floor,73.75
+Cement,50.0,450.0,22500.0,2026-03-03,Construction,3rd Floor,73.75
+Cement Transport ,50.0,22.0,1100.0,2026-03-03,Construction,3rd Floor,73.75
+Sand (10 Wheel),1.0,8000.0,8000.0,2026-03-03,Construction,3rd Floor,73.75
+Gas for Generator ,1.0,400.0,400.0,2026-03-06,Construction,3rd Floor,73.75
+Ali’ Salary ,1.0,5500.0,5500.0,2026-03-06,Construction,3rd Floor,73.75
+Cement,25.0,450.0,11250.0,2026-03-13,Construction,3rd Floor,73.75
+Cement Transport ,25.0,20.0,500.0,2026-03-13,Construction,3rd Floor,73.75
+Gas for Generator ,1.0,400.0,400.0,2026-03-13,Construction,3rd Floor,73.75
+Design Pillars ,6.0,1500.0,9000.0,2026-03-15,Construction,3rd Floor,73.75
+Contractor Njaye Payment,1.0,20000.0,20000.0,2026-03-17,Construction,3rd Floor,73.75
+Oil for Big Pillars,1.0,140.0,140.0,2026-03-17,Construction,3rd Floor,73.75
+Cement,25.0,450.0,11250.0,2026-03-17,Construction,3rd Floor,73.75
+Cement Transport ,25.0,20.0,500.0,2026-03-17,Construction,3rd Floor,73.75
+Big Pillar Mold  Rental (days),3.0,1000.0,3000.0,2026-03-19,Construction,3rd Floor,73.75
+Big Pillar Mold Transport ,1.0,1000.0,1000.0,2026-03-19,Construction,3rd Floor,73.75
+Cardboard and nails ,1.0,700.0,700.0,2026-03-26,Construction,3rd Floor,73.75
+1/5 Wood ,5.0,350.0,1750.0,2026-03-28,Construction,3rd Floor,73.75
+1/5 Wood Transport ,1.0,400.0,400.0,2026-03-28,Construction,3rd Floor,73.75
+Gas for Generator ,1.0,400.0,400.0,2026-03-28,Construction,3rd Floor,73.75
+Bubacarr Faye Court Expenses ,1.0,1000.0,1000.0,2026-03-29,Construction,3rd Floor,73.75
+"Scaffolding Rental, Safo (Daily)",6.0,150.0,900.0,2026-03-30,Construction,3rd Floor,73.75
+Scaffolding Transport,2.0,200.0,400.0,2026-03-30,Construction,3rd Floor,73.75
+Nail (kg),2.0,100.0,200.0,2026-03-30,Construction,3rd Floor,73.75
+Ali’ Salary ,1.0,5500.0,5500.0,2026-04-01,Construction,3rd Floor,73.75
+Acrojack Rental,6.0,25.0,150.0,2026-04-11,Construction,3rd Floor,73.75
+"Scaffolding Rental, Safo (Daily)",1.0,1200.0,1200.0,2026-04-11,Construction,3rd Floor,73.75
+1/2 Wood,2.0,120.0,240.0,2026-04-11,Construction,3rd Floor,73.75
+Material Transport ,1.0,500.0,500.0,2026-04-11,Construction,3rd Floor,73.75
+Big Pillar Mold  Rental (days),1.0,1000.0,1000.0,2026-04-14,Construction,3rd Floor,73.75
+Big Pillar Mold Transport ,2.0,300.0,600.0,2026-04-14,Construction,3rd Floor,73.75
+Contractor Njaye Payment,1.0,50000.0,50000.0,2026-04-20,Construction,3rd Floor,73.75
+Residual - for Bubacarr Faye,1.0,647.0,647.0,2026-04-29,Construction,3rd Floor,73.75
+Ali Salary ,1.0,5500.0,5500.0,2026-05-01,Roof Concreting,3rd Floor,73.8
+1/2 Wood,200.0,100.0,20000.0,2026-05-01,Roof Concreting,3rd Floor,73.8
+1/2 Wood Transport ,1.0,800.0,800.0,2026-05-01,Roof Concreting,3rd Floor,73.8
+2/3 Wood Rentals(25Days),150.0,5.5,20625.0,2026-05-01,Roof Concreting,3rd Floor,73.8
+2/3 Woods Transport,1.0,1000.0,1000.0,2026-05-01,Roof Concreting,3rd Floor,73.8
+Nail(Box),3.0,2500.0,7500.0,2026-05-01,Roof Concreting,3rd Floor,73.8
+Concrete Nail(BigBox),1.0,1500.0,1500.0,2026-05-01,Roof Concreting,3rd Floor,73.8
+Carpenter ,1.0,30000.0,30000.0,2026-05-02,Roof Concreting,3rd Floor,73.8
+Gas for Generator ,1.0,400.0,400.0,2026-05-06,Roof Concreting,3rd Floor,73.8
+AcroJack Rentals(18Days),250.0,2.5,11250.0,2026-05-08,Roof Concreting,3rd Floor,73.8
+AcroJack Transport ,1.0,1500.0,1500.0,2026-05-08,Roof Concreting,3rd Floor,73.8
+2/3 Wood Rentals(17Days),120.0,5.0,10200.0,2026-05-09,Roof Concreting,3rd Floor,73.8
+2/3 Woods Transport,1.0,1200.0,1200.0,2026-05-09,Roof Concreting,3rd Floor,73.8
+Plywood (15Days),65.0,19.0,18525.0,2026-05-11,Roof Concreting,3rd Floor,73.8
+AcroJack Rentals(25Days),150.0,2.5,9375.0,2026-05-11,Roof Concreting,3rd Floor,73.8
+AcroJack and Plywood Transport ,1.0,3000.0,3000.0,2026-05-11,Roof Concreting,3rd Floor,73.8
+2/3 Wood Rentals(16Days),50.0,5.0,4000.0,2026-05-11,Roof Concreting,3rd Floor,73.8
+2/3 Woods Transport,1.0,600.0,600.0,2026-05-11,Roof Concreting,3rd Floor,73.8
+Brick Molding (5 Bags),155.0,6.0,1100.0,2026-05-13,Roof Concreting,3rd Floor,73.8
+Carpenter ,1.0,15000.0,15000.0,2026-05-16,Roof Concreting,3rd Floor,73.75
+Iron Rod(12mm),40.0,525.0,21000.0,2026-05-16,Roof Concreting,3rd Floor,73.75
+Iron Rod(10mm),500.0,330.0,165000.0,2026-05-16,Roof Concreting,3rd Floor,73.75
+Binding Wire,3.0,500.0,1500.0,2026-05-16,Roof Concreting,3rd Floor,73.75
+Iron Rods Transport ,1.0,3300.0,3300.0,2026-05-16,Roof Concreting,3rd Floor,73.75
+Iron Man Payment,1.0,20000.0,20000.0,2026-05-17,Roof Concreting,3rd Floor,73.75
+Plywood 12mm,11.0,1750.0,19250.0,2026-05-18,Roof Concreting,3rd Floor,73.85
+Plywood 12mm,10.0,1800.0,18000.0,2026-05-18,Roof Concreting,3rd Floor,73.85
+2/3 Wood,25.0,250.0,6250.0,2026-05-18,Roof Concreting,3rd Floor,73.85
+1/6 Wood,15.0,340.0,5100.0,2026-05-18,Roof Concreting,3rd Floor,73.85
+Concrete Nail (Pack),10.0,35.0,350.0,2026-05-18,Roof Concreting,3rd Floor,73.85
+Cement,1.0,475.0,475.0,2026-05-18,Roof Concreting,3rd Floor,73.85
+Materials Transport ,1.0,1500.0,1500.0,2026-05-18,Roof Concreting,3rd Floor,73.85
+Asphalt(19cu) ,1.0,100000.0,100000.0,2026-05-18,Roof Concreting,3rd Floor,73.85
+Ali Moving the Neighbor’s Sand ,1.0,2200.0,2200.0,2026-05-19,Roof Concreting,3rd Floor,73.85
+Plumbing Materials,1.0,19000.0,19000.0,2026-05-19,Roof Concreting,3rd Floor,73.85
+Electrical Materials,1.0,13325.0,13325.0,2026-05-19,Roof Concreting,3rd Floor,73.85
+Plumbing & Electrical Materials Transport ,1.0,600.0,600.0,2026-05-19,Roof Concreting,3rd Floor,73.85
+Plumber ,1.0,10000.0,10000.0,2026-05-20,Roof Concreting,3rd Floor,73.85
+Electrician ,1.0,9000.0,9000.0,2026-05-19,Roof Concreting,3rd Floor,73.85
+Washed Stone,3.0,15500.0,46500.0,2026-05-19,Roof Concreting,3rd Floor,73.85
+Sand,3.0,9000.0,27000.0,2026-05-21,Roof Concreting,3rd Floor,73.75
+Gas for Generator ,1.0,400.0,400.0,2026-05-21,Roof Concreting,3rd Floor,73.75
+Binding Wire,1.0,500.0,500.0,2026-05-21,Roof Concreting,3rd Floor,73.75
+Plumbing Materials ,1.0,200.0,200.0,2026-05-21,Roof Concreting,3rd Floor,73.75
+Plumber Extra,1.0,2000.0,2000.0,2026-05-21,Roof Concreting,3rd Floor,73.75
+Cement,343.0,455.0,156065.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Cement Transport ,343.0,20.0,6860.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Gas for Generator ,1.0,1100.0,1100.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Electrical Materials,1.0,200.0,200.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Acrojack,16.0,3.0,1000.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Iron Man Payment,1.0,15000.0,15000.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Iron Man Extra Payment,1.0,3000.0,3000.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+2/8 Wood,5.0,700.0,3500.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+2/8 Wood Transport ,1.0,400.0,400.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Concrete Man,1.0,45000.0,45000.0,2026-05-23,Roof Concreting,3rd Floor,73.75
+Concrete Guys Lunch,1.0,2000.0,2000.0,2026-05-23,Roof Concreting,3rd Floor,73.75
+Supervising Contractor,1.0,1500.0,1500.0,2026-05-23,Roof Concreting,3rd Floor,73.75
+Gas for Generator ,1.0,1000.0,1000.0,2026-05-25,Roof Concreting,3rd Floor,73.75
+Ali Transporting the Cement ,1.0,1000.0,1000.0,2026-05-26,Roof Concreting,3rd Floor,73.75
+Carpenter Payment,1.0,5000.0,5000.0,2026-05-26,Roof Concreting,3rd Floor,73.75
+Wood Rental,35.0,35.0,4900.0,2026-05-26,Roof Concreting,3rd Floor,73.75
+Wood Transport ,1.0,800.0,800.0,2026-05-26,Roof Concreting,3rd Floor,73.75
+Ali Salary ,1.0,5500.0,5500.0,2026-06-01,Roof Concreting,3rd Floor,73.75
+2/3 Wood Rentals Extension ( 14 Days),150.0,5.5,11550.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Acrojack Rental Extension (14 Days),250.0,2.5,8750.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Acrojack Extension ( 3 Days),150.0,2.5,1125.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Plywood 12mm Rental Extension ,65.0,20.0,18200.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+2/3 Wood Wood Rental Extension ( 14 Days),170.0,5.0,11900.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Acrojack Transport ,1.0,800.0,800.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Acrojack Transport ,1.0,4500.0,4500.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Plywood & 2/3 Transport ,1.0,4200.0,4200.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Carpenter Payment,1.0,5000.0,5000.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Cement ,3.0,455.0,1365.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Cement Transport ,3.0,20.0,60.0,2026-05-22,Roof Concreting,3rd Floor,73.75
+Access- no Change for Bubacarr Faye,1.0,40.0,40.0,2026-06-11,Roof Concreting,3rd Floor,74.0
+Rebuilding the Fence,1.0,2500.0,2500.0,2026-06-14,Roof Concreting,3rd Floor,74.0
+Ali Watering the Roof,1.0,2000.0,2000.0,2026-07-03,Roof Concreting,3rd Floor,74.0
